@@ -1,0 +1,6 @@
+D:\Projects\FilesBackuper\FilesBackuper\bin\Debug\FilesBackuper.exe.config
+D:\Projects\FilesBackuper\FilesBackuper\bin\Debug\FilesBackuper.exe
+D:\Projects\FilesBackuper\FilesBackuper\bin\Debug\FilesBackuper.pdb
+D:\Projects\FilesBackuper\FilesBackuper\obj\Debug\FilesBackuper.csprojResolveAssemblyReference.cache
+D:\Projects\FilesBackuper\FilesBackuper\obj\Debug\FilesBackuper.exe
+D:\Projects\FilesBackuper\FilesBackuper\obj\Debug\FilesBackuper.pdb
